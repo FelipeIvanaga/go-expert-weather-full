@@ -7,6 +7,7 @@ Copiar o arquivo `.env.exemplo` com o nome `.env`
 ## Rodando localmente
 
 - Rode a imagem `docker compose up --build`
+- Acessar o Zipkin no `http://localhost:9411`
 
 ## Exemplo de funcionamento
 
